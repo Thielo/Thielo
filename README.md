@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Richard Thiel, but here everyone calls me just @Thielo
+- 🌱 I’m currently learning to get better with TypeScript
+- 📫 Currently you don't ;) 
